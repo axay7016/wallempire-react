@@ -1,0 +1,20 @@
+{
+  "short_name": "Wallempire",
+  "name": "Create Wallempire Image Website",
+  "icons": [
+    {
+      "src": "WE-logo.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "WE-logo.png",
+      "type": "image/png",
+      "sizes": "58x42"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
